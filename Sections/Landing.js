@@ -20,10 +20,10 @@ export default function Landing() {
             <div className='w-full flex justify-center items-center'>
               <div className=' w-full hidden dark:text-white sm:flex justify-around mx-auto text-lg lg:text-2xl filter drop-shadow-xl text-gray-600 font-serif'>
                 <h1>Social Media</h1>
-                <a href='#'>IG</a>
-                <a href='#'>FB</a>
+                <a href='https://www.instagram.com/kavinsebastiannn/'>IG</a>
+                <a href='https://www.facebook.com/kavinsebastian99'>FB</a>
                 <a href='#'>TW</a>
-                <a href='#'>LK</a>
+                <a href='https://www.linkedin.com/in/kavin-sebastian-96510a16a/'>IN</a>
                 <div className='absolute w-1/12 -right-24 -top-5 sm:-top-8  -rotate-90'>
                   <Parallax speed={-5}>
                     <Image src={Arrow} alt='' srcSet='' width='30px' className='h-[50px]' />
